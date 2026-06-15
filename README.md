@@ -1,3 +1,3 @@
 # Posters_By_Manav
-Posters I desgin.
-Tool I use for poster: FIGMA
+Tool I use : FIGMA
+Just for fun.
